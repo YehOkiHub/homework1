@@ -4,6 +4,13 @@ By Chien Ting Yeh
 
 ## Description
 
-Editing existing HTML/CSS file 
+The original website required a bit of cleaning up. The Homework required us to make some changes in the original code in order to make it semantic
 
-The original website required a bit of cleaning up and editing inside the code. 
+
+
+
+## Technologies
+
+HTML
+CSS
+
